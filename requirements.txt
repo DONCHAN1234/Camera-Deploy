@@ -1,6 +1,6 @@
 streamlit==1.22.0
-opencv-python-headless==4.5.5.64
-numpy>=1.24.0  # Updated to a newer version of numpy
+opencv-python-headless==4.5.3.56  # Try this specific version if newer versions fail
+numpy>=1.24.0
 rich>=10.14.0
 markdown-it-py>=2.2.0
 mdurl==0.1.2
